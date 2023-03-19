@@ -114,15 +114,15 @@
 
 ## 🌈 대표사진
 
-![joinus.store_](C:\Users\User\Desktop\내 폴더\프로젝트 폴더\README-REPO\md-images\joinus.store_-16791908473667.png)
+![joinus.store_](./md-images/메인.png)
 
-![로그인](C:\Users\User\Desktop\내 폴더\프로젝트 폴더\README-REPO\md-images\로그인-167919098409612.png)
+![로그인](./md-images/로그인-167919098409612.png)
 
-![공고 상세](C:\Users\User\Desktop\내 폴더\프로젝트 폴더\README-REPO\md-images\공고 상세.png)
+![공고 상세](./md-images/공고_상세.png)
 
-![글쓰기](C:\Users\User\Desktop\내 폴더\프로젝트 폴더\README-REPO\md-images\글쓰기.png)
+![글쓰기](./md-images/글쓰기.png)
 
-![채팅](C:\Users\User\Desktop\내 폴더\프로젝트 폴더\README-REPO\md-images\채팅.png)
+![채팅](./md-images/채팅.png)
 
 ## 😺 멤버
 
